@@ -1,2 +1,3 @@
+#Mini
 Selv Tak
-Godt du selv tror på det
+Godt du selv tror på det.
